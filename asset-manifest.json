@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/gruffalo_doch/static/css/main.b9713a26.css",
-    "main.js": "/gruffalo_doch/static/js/main.19a7eb35.js",
+    "main.css": "/gruffalo_doch/static/css/main.936a56cf.css",
+    "main.js": "/gruffalo_doch/static/js/main.d4a1d1ea.js",
     "static/js/453.d37bcb50.chunk.js": "/gruffalo_doch/static/js/453.d37bcb50.chunk.js",
     "index.html": "/gruffalo_doch/index.html",
-    "main.b9713a26.css.map": "/gruffalo_doch/static/css/main.b9713a26.css.map",
-    "main.19a7eb35.js.map": "/gruffalo_doch/static/js/main.19a7eb35.js.map",
+    "main.936a56cf.css.map": "/gruffalo_doch/static/css/main.936a56cf.css.map",
+    "main.d4a1d1ea.js.map": "/gruffalo_doch/static/js/main.d4a1d1ea.js.map",
     "453.d37bcb50.chunk.js.map": "/gruffalo_doch/static/js/453.d37bcb50.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b9713a26.css",
-    "static/js/main.19a7eb35.js"
+    "static/css/main.936a56cf.css",
+    "static/js/main.d4a1d1ea.js"
   ]
 }
