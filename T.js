@@ -4,7 +4,7 @@ const path = require("path");
 const inputPath = path.join(__dirname, "input.txt"); // твой исходный txt
 const outputPath = path.join(__dirname, "output.json");
 
-const START_NUMBER = 1; // 👈 начальный номер
+const START_NUMBER = 3001; // 👈 начальный номер
 
 // читаем файл
 const text = fs.readFileSync(inputPath, "utf-8");
